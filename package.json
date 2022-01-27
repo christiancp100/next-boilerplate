@@ -1,5 +1,5 @@
 {
-  "name": "my-project",
+  "name": "studiant-web",
   "private": true,
   "scripts": {
     "dev": "next dev",
